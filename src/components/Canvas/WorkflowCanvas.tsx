@@ -217,7 +217,7 @@ export function WorkflowCanvas() {
         deleteKeyCode="Delete"
       >
         <Background />
-        {/* <MiniMap /> */}
+        <MiniMap />
         <CanvasControls />
       </ReactFlow>
       <ValidationOverlay />
